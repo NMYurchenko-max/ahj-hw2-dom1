@@ -1,4 +1,4 @@
-name: CI/CD GitHud Actions
+name: CI/CD GitHub Actions
 
 on:
   push:
